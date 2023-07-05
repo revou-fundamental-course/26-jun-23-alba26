@@ -52,3 +52,17 @@
 }
 
 /* Testing push to git */
+
+@media screen and (max-width: 1000px) {
+    h1 {
+        color: red;
+    }
+}
+
+.slider {
+    display: block;
+    margin: auto auto;
+    margin-top: 20px;
+    width: 400px;
+    height: 200px;
+}
